@@ -55,7 +55,7 @@ fi
 ### 5) Clone repo
 echo
 echo "###### Clone spotipy-eink git"
-git clone https://github.com/Canterrain/spotipi-eink
+git clone https://github.com/CharlesESW/spotipi-eink.git
 echo "Switching into instalation directory"
 cd spotipi-eink
 install_path=$(pwd)
